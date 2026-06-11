@@ -1,5 +1,5 @@
 # List of numbers
-numbers = [10, 45, 23, 89, 67, 12, 99, 34, 56, 78]
+numbers = [1, 45, 23, 89, 97, 12, 9, 34, 56, 108]
 
 # Find highest number
 highest = max(numbers)
